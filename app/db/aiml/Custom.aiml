@@ -1,0 +1,1119 @@
+<?xml version="1.0" encoding="utf-8"?><aiml>  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <category>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <pattern>
+      
+      WHAT IS A POLO
+    
+    </pattern>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <template>
+      
+      noun | a game similar to field hockey but played on horseback using long-handled mallets and a wooden ball
+    
+    </template>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    </category>  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <category>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <pattern>
+      
+      WHAT IS A TURTLE
+    
+    </pattern>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <template>
+      
+      1 | noun | a sweater or jersey with a high close-fitting collar
+2 | noun | any of various aquatic and land reptiles having a bony shell and flipper-like limbs for swimming
+3 | verb | overturn accidentally
+4 | verb | hunt for turtles, especially as an occupation
+    
+    </template>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    </category>  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <category>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <pattern>
+      
+      WHAT IS A DONKEY?
+    
+    </pattern>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <template>
+      
+      1 | noun | the symbol of the Democratic Party; introduced in cartoons by Thomas Nast in 1874
+2 | noun | domestic beast of burden descended from the African wild ass; patient but stubborn
+    
+    </template>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    </category>  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <category>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <pattern>
+      
+      WHAT IS A COWBOY
+    
+    </pattern>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <template>
+      
+      1 | noun | a hired hand who tends cattle and performs other duties on horseback
+2 | noun | a performer who gives exhibitions of riding and roping and bulldogging
+3 | noun | someone who is reckless or irresponsible (especially in driving vehicles)
+    
+    </template>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    </category>  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <category>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <pattern>
+      
+      WHAT IS A HEDGEHOG
+    
+    </pattern>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <template>
+      
+      1 | noun | relatively large rodents with sharp erectile bristles mingled with the fur
+2 | noun | small nocturnal Old World mammal covered with both hair and protective spines
+    
+    </template>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    </category>  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <category>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <pattern>
+      
+      WHAT IS A DEER
+    
+    </pattern>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <template>
+      
+      noun | distinguished from Bovidae by the male's having solid deciduous antlers
+    
+    </template>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    </category>  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <category>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <pattern>
+      
+      WHAT IS A SKUNK
+    
+    </pattern>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <template>
+      
+      1 | noun | a person who is deemed to be despicable or contemptible
+2 | noun | a defeat in a game where one side fails to score
+3 | noun | street names for marijuana
+4 | noun | american musteline mammal typically ejecting an intensely malodorous fluid when startled; in some classifications put in a separate subfamily Mephitinae
+5 | verb | defeat by a lurch
+(5 meanings)
+    
+    </template>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    </category>  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <category>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <pattern>
+      
+      WHAT IS A RAT
+    
+    </pattern>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <template>
+      
+      1 | verb | desert one's party or group of friends, for example, for one's personal advantage
+2 | verb | employ scabs or strike breakers in
+3 | verb | take the place of work of someone on strike
+4 | verb | give (hair) the appearance of being fuller by using a rat
+5 | verb | catch rats, especially with dogs
+6 | verb | give away information about somebody
+7 | noun | any of various long-tailed rodents similar to but larger than a mouse
+8 | noun | someone who works (or provides workers) during a strike
+(11 meanings)
+    
+    </template>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    </category>  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    <category>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <pattern>
+      
+      WHAT IS A GOLDFISH
+    
+    </pattern>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <template>
+      
+      noun | small golden or orange-red freshwater fishes of Eurasia used as pond or aquarium fishes
+    
+    </template>    
+    
+    
+    
+    
+    
+    
+    
+    
+  
+  
+  
+  
+  
+  
+  
+  
+    </category>  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    <category>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <pattern>
+      
+      WHO WAS THE 23RD PRESIDENT
+    
+    </pattern>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <template>
+      
+      Benjamin Harrison
+    
+    </template>    
+    
+    
+    
+    
+    
+    
+    
+  
+  
+  
+  
+  
+  
+  
+    </category>  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+    <category>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <pattern>
+      WHAT IS A TURTLENECK
+    </pattern>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <template>
+      noun | a sweater or jersey with a high close-fitting collar
+    </template>    
+    
+    
+    
+    
+    
+    
+  
+  
+  
+  
+  
+  
+    </category>  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+    <category>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <pattern>WHAT IS THE CAPITAL MEXICO</pattern>    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        <template>Mexico City, Distrito Federal, Mexico</template>    
+    
+    
+    
+    
+    
+  
+  
+  
+  
+  
+    </category>  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+    <category>    
+    
+    
+    
+    
+    
+    
+    
+    
+        <pattern>WHAT IS A DONKEY</pattern>    
+    
+    
+    
+    
+    
+    
+    
+    
+        <template>1 | noun | the symbol of the Democratic Party; introduced in cartoons by Thomas Nast in 1874
+2 | noun | domestic beast of burden descended from the African wild ass; patient but stubborn</template>    
+    
+    
+    
+    
+  
+  
+  
+  
+    </category>  
+  
+  
+  
+  
+
+  
+  
+  
+    <category>    
+    
+    
+    
+    
+    
+    
+        <pattern>WHAT IS A LIGAR</pattern>    
+    
+    
+    
+    
+    
+    
+        <template>noun | a person who has lied or who lies repeatedly</template>    
+    
+    
+    
+  
+  
+  
+    </category>  
+  
+  
+  
+
+  
+  
+    <category>    
+    
+    
+    
+    
+        <pattern>WHAT IS A FROG</pattern>    
+    
+    
+    
+    
+        <template>1 | noun | any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species
+2 | noun | a decorative loop of braid or cord
+3 | verb | hunt frogs for food</template>    
+    
+    
+  
+  
+    </category>  
+  
+  
+
+  
+    <category>    
+    
+    
+        <pattern>WHAT IS A TURKEY</pattern>    
+    
+    
+        <template>1 | noun | large gallinaceous bird with fan-shaped tail; widely domesticated for food
+2 | noun | a person who does something thoughtless or annoying
+3 | noun | flesh of large domesticated fowl usually roasted
+4 | noun | an event that fails badly or is totally ineffectual</template>    
+    
+  
+    </category>  
+  
+
+    <category>    
+        <pattern>WHAT IS A MOOSE</pattern>    
+        <template>noun | large northern deer with enormous flattened antlers in the male; called &quot;elk&quot; in Europe and &quot;moose&quot; in North America</template>    
+    </category>  
+  <category>    <pattern>WHAT IS A MOOSE</pattern>    <template>noun | large northern deer with enormous flattened antlers in the male; called &quot;elk&quot; in Europe and &quot;moose&quot; in North America</template>  </category></aiml>

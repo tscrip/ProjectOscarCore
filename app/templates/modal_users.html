@@ -1,0 +1,63 @@
+<div id="modal" class="modal fade">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <h4 class="modal-title"></h4>
+            </div>
+            <div class="modal-body">
+                <form class="form-horizontal">
+                  <div class="form-group">
+                    <label for="module_name" class="col-sm-3 control-label">Module Name</label>
+                    <div class="col-sm-5">
+                      <input type="text" class="form-control" id="module_name_text" placeholder="Module Name">
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <label for="module_author" class="col-sm-3 control-label">Module Author</label>
+                    <div class="col-sm-5">
+                      <input type="text" class="form-control" id="module_author_text" placeholder="Author Name">
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <label for="module_filename" class="col-sm-3 control-label">Module Filename</label>
+                    <div class="col-sm-5">
+                      <input type="text" class="form-control" id="module_filename_text" placeholder="Module Filename">
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <label for="moduletype" class="col-sm-3 control-label">Module Status</label>
+                    <div class="col-sm-5">
+                      <select class="form-control" id="module_status_value">
+                          <option>Enabled</option>
+                          <option>Disabled</option>
+                        </select>
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <label for="module_type" class="col-sm-3 control-label">Module Type</label>
+                    <div class="col-sm-5">
+                      <input class="form-control" id="module_type_text" type="text" placeholder="User" disabled>
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <label for="module_priority" class="col-sm-3 control-label">Module Priority</label>
+                    <div class="col-sm-5">
+                      <input type="number" class="form-control bfh-number" id="module_priority_text">
+                    </div>
+                  </div>
+                  <div class="form-group" id="model_identifier">
+                    <label for="module_type" class="col-sm-3 control-label">Module Identifier</label>
+                    <div class="col-sm-5">
+                      <input class="form-control" id="module_identifier_text" type="text" placeholder="" disabled>
+                    </div>
+                  </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" id="module_save">Save changes</button>
+            </div>
+        </div>
+    </div>
+</div>
